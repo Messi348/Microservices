@@ -1,0 +1,13 @@
+com/mycompany/usermp/entities/CityTb.class
+com/mycompany/usermp/config/CrossOriginResourceSharingFilter.class
+com/mycompany/usermp/entities/StateTb.class
+com/mycompany/usermp/entities/SysUsers_.class
+com/mycompany/usermp/entities/CityTb_.class
+com/mycompany/usermp/models/UserModel.class
+com/mycompany/usermp/entities/StateTb_.class
+com/mycompany/usermp/entities/SysUsers.class
+com/mycompany/usermp/service/ExampleService.class
+com/mycompany/usermp/config/Producers.class
+com/mycompany/usermp/service/UserResource.class
+com/mycompany/usermp/config/BootStrap.class
+com/mycompany/usermp/service/HealthCheckService.class

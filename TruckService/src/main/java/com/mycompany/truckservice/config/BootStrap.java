@@ -1,0 +1,11 @@
+package com.mycompany.truckservice.config;
+import javax.annotation.security.DeclareRoles;
+import javax.ws.rs.ApplicationPath;
+import org.eclipse.microprofile.auth.LoginConfig;
+
+@SuppressWarnings({"EmptyClass", "SuppressionAnnotation"})
+@ApplicationPath("rest")
+@LoginConfig(authMethod = "MP-JWT")
+@DeclareRoles({"Admin", "TruckOwner", "CargoOwner"})
+public class BootStrap extends javax.ws.rs.core.Application {
+}

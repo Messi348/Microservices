@@ -1,0 +1,15 @@
+servlets/HomeServlet.class
+token/GenerateToken.class
+servlets/Logout.class
+project/Project.class
+com/mycompany/trucksystemfront/service/ExampleService.class
+auth/ShopAuthenticationMechanism.class
+com/mycompany/trucksystemfront/config/Producers.class
+servlets/TruckServlet.class
+com/mycompany/trucksystemfront/config/CrossOriginResourceSharingFilter.class
+com/mycompany/trucksystemfront/service/TruckClient.class
+servlets/UserServlet.class
+com/mycompany/trucksystemfront/service/HealthCheckService.class
+com/mycompany/trucksystemfront/config/BootStrap.class
+project/MyCredentials.class
+token/MPJWTToken.class
